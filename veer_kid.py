@@ -230,7 +230,7 @@ logo=(""" \033[1;37m ##     ##   ########  ########  ########
     \033[1;34m ###      ########  ########  ##      ##   
 \x1b[1;97m ---------------------------------------------
 \x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Owner   :  MUDASSIR ALI
-\x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Facebook:  VEER KHANOO
+\x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Facebook:  SK-MAHIN
 \x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Status  :  Paid
 \x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Tool    :  MIX
 \x1b[1;97m [\x1b[1;91m•\x1b[1;97m] \x1b[1;97m Version : \x1b[1;92m0.6
