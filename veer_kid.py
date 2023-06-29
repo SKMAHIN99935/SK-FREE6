@@ -26,7 +26,7 @@ except ModuleNotFoundError:
 
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 try:
-    prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
+    prox= requests.get('https://github.com/SKMAHIN99935/SK-FREE6/blob/main/VEER.txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
     print('')
